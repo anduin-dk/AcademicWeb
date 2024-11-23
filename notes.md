@@ -1,6 +1,9 @@
 <html>
     <link rel="stylesheet" href="style.css">
     <header> 
+        <title>
+      Expository Notes
+    </title>
       <nav, class = "row">
          <li class="masthead__menu-item">
           <a href="https://anduin-dk.github.io/AcademicWeb">Home</a>
@@ -14,9 +17,6 @@
       </nav>
     </header>
   <body>
-    <title>
-      Expository Notes
-    </title>
     <div class = "row"> 
       <div class = "post-text-box">
         <section>
