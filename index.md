@@ -5,7 +5,6 @@
       </head> 
    <body>
       <header>   
-      <nav, class = "row">
          <li class="masthead__menu-item">
           <a href="https://anduin-dk.github.io/AcademicWeb/index.html">Home</a>
             </li>
@@ -15,7 +14,6 @@
           <li class="masthead__menu-item">
           <a href="https://anduin-dk.github.io/AcademicWeb/about.html">About</a>
             </li>
-      </nav>
       </header>
       <main>
             <div class=”profile”>
