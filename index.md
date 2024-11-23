@@ -1,7 +1,7 @@
 <html>
     <link rel="stylesheet" href="style.css">
    <head>
-      <title>Yuxuan (Andy) Song's website</title>
+      <h1>Yuxuan (Andy) Song's website</h1>
       </head> 
    <body>
       <header>   
