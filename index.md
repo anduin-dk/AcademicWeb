@@ -4,7 +4,7 @@
       <h1>Yuxuan (Andy) Song's website</h1>
       </head> 
    <body>
-      <header>   
+      <header, class="row">   
          <li class="masthead__menu-item">
           <a href="https://anduin-dk.github.io/AcademicWeb/index.html">Home</a>
             </li>
@@ -16,12 +16,9 @@
             </li>
       </header>
       <main>
-            <div class=”profile”>
                <h1>About Me</h1>
                <p>I have recently graduated from the University of Warwick with an integrated masters degree in Mathematics and Statistics, 
-                   where I have focused on the pure mathematics side. I am currently applying for a PhD position in Mathematics.</p>
-            </div>  
-         </div>        
+                   where I have focused on the pure mathematics side. I am currently applying for a PhD position in Mathematics.</p>     
       </main>
       <footer>
          <p><a href=”https://www.linkedin.com/in/yuxuan-song-2a9293200/”, target="_blank">LinkedIn</a></p>
