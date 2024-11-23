@@ -1,7 +1,7 @@
 <html>
    <link rel="stylesheet" href="style.css">
    <head>
-      <title>About me</title>
+      <h1> About me </h1>
       </head> 
    <body>
       <header> 
