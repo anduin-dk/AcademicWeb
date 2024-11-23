@@ -22,9 +22,9 @@
                   <p>
                   I studied Mathematics and Statistics at the University of Warwick, where I have graduated with an 
                   MMathStat in July 2024. Although my degree was administered by the Department of Statistics, I have 
-                  found myself a lot more interested in pure mathematics. During my degree, I have focused on functional 
+                  found myself a lot more interested in pure mathematics. During my degree, I have focused on       functional 
                   analysis, elliptic and parabolic PDE theory, differential geometry, harmonic analysis and measure theory.
-                  I have also attended some relevant modules without taking them for credit, including Lie groups, Bifurcation theory etc.
+                  I have also attended some relevant modules without taking them for credit, including Lie groups, Bifurcation theory etc. My masters thesis explores the geometry of embedded hypersurfaces in a quasi-contact sub-Riemannian manifold, where I focused on the local geometry near the characteristic points on such hypersurfaces.
                   I have been applying for a PhD position in Mathematics, where my first attempts during the final year were not 
                   too successful due to the lack of funding (because of my international student status in the UK and the lack of
                   funding for UK-based Maths PhD students in general). Before university, I was living in Germany, attended schools 
