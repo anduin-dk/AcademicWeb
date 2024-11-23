@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+    <link rel="stylesheet" href="style.css">
     <header> 
       <nav>
          <a href=”anduin-dk.github.io/AcademicWeb”>Home</a>
