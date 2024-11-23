@@ -7,7 +7,7 @@
       <header>   
       <nav, class = "row">
          <li class="masthead__menu-item">
-          <a href="https://anduin-dk.github.io/AcademicWeb">Home</a>
+          <a href="https://anduin-dk.github.io/AcademicWeb/index.html">Home</a>
             </li>
           <li class="masthead__menu-item">
           <a href="https://anduin-dk.github.io/AcademicWeb/notes.html">Notes</a>
