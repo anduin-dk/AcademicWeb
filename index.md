@@ -22,7 +22,7 @@
       </main>
        <section><p><a href="mailto:yuxuan.song@warwick.ac.uk">Contact me via email: yuxuan.song@warwick.ac.uk</a></p></section>
       <footer>
-         <a href=”www.linkedin.com/in/yuxuan-song-2a9293200”, target="_blank">LinkedIn</a>
+         <a href=”www.linkedin.com/in/yuxuan-song-2a9293200”>LinkedIn</a>
       </footer>
     </body>
 </html>
