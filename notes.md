@@ -17,8 +17,6 @@
       </nav>
     </header>
   <body>
-    <div class = "row"> 
-      <div class = "post-text-box">
         <section>
           <p>
             Here are some expository notes on some topics in analysis, which are probably heavily biased to my 
@@ -30,23 +28,33 @@
         </section>
         <section>
           <nav>
-            <a href = "anduin-dk.github.io/AcademicWeb/Bridging_to_measure_theoretic_probability.pdf",
+              <li class="masthead__menu-item">
+                  <a href = "anduin-dk.github.io/AcademicWeb/Bridging_to_measure_theoretic_probability.pdf",
                 target="_blank">
                 Bridging elementary probability to measure theory</a>
-            <a href = "anduin-dk.github.io/AcademicWeb/Convex_integration_From_Nash_embeddings_to_Euler_equation (4).pdf",
+              </li>
+              <li class = "masthead__menu-item">
+                <a href = "anduin-dk.github.io/AcademicWeb/Convex_integration_From_Nash_embeddings_to_Euler_equation (4).pdf",
                 target="_blank">
                 Convex integration for Euler equations</a>
-            <a href = "anduin-dk.github.io/AcademicWeb/LocallyConvexAnalysis.pdf", target="_blank">
+              </li>
+              <li class = "masthead__menu-item">
+                  <a href = "anduin-dk.github.io/AcademicWeb/LocallyConvexAnalysis.pdf", target="_blank">
                 Locally convex spaces</a>
-            <a href = "anduin-dk.github.io/AcademicWeb/SubRiemStructures.pdf", target="_blank">
+              </li>
+              <li class = "masthead__menu-item">
+                <a href = "anduin-dk.github.io/AcademicWeb/SubRiemStructures.pdf", target="_blank">
                 Brief introduction to Sub-Riemannian geometry</a>
-            <a href = "anduin-dk.github.io/AcademicWeb/RadonMeasures.pdf", target="_blank">
+              </li>
+              <li class = "masthead__menu-item">
+                <a href = "anduin-dk.github.io/AcademicWeb/RadonMeasures.pdf", target="_blank">
                 Radon Measures on LCH spaces</a>
-            <a href = "anduin-dk.github.io/AcademicWeb/VarifoldGeom.pdf", target="_blank">
+              </li>
+              <li class = "masthead__menu-item">
+                <a href = "anduin-dk.github.io/AcademicWeb/VarifoldGeom.pdf", target="_blank">
                 Varifolds and minimal surfaces</a>
+              </li>
           </nav>
-        </section>
-      </div> 
-    </div>
+        </section> 
   </body>
 </html>
