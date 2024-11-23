@@ -1,7 +1,7 @@
 <html>
    <link rel="stylesheet" href="style.css">
    <head>
-      <title>Personal Blog</title>
+      <title>About me</title>
       </head> 
    <body>
       <header> 
@@ -18,9 +18,6 @@
       </nav>
       </header>
       <main>
-             <title>
-               About me
-             </title>
                <section>
                   <h1>Academic history</h1>
                   <p>
