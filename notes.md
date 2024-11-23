@@ -27,7 +27,7 @@
         </section>
           <nav>
               <li class="masthead__menu-item">
-                  <a href = "anduin-dk.github.io/AcademicWeb/Bridging_to_measure_theoretic_probability.pdf">Bridging elementary probability to measure theory</a>
+                  <a href = "./Bridging_to_measure_theoretic_probability.pdf">Bridging elementary probability to measure theory</a>
               </li>
               <li class = "masthead__menu-item">
                 <a href = "anduin-dk.github.io/AcademicWeb/Convex_integration_From_Nash_embeddings_to_Euler_equation (4).pdf">Convex integration for Euler equations</a>
