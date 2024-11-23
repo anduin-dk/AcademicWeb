@@ -5,6 +5,7 @@
     </h1>
     </head>
     <header> 
+        <nav>
          <li class="masthead__menu-item">
           <a href="https://anduin-dk.github.io/AcademicWeb">Home</a>
             </li>
@@ -14,6 +15,7 @@
           <li class="masthead__menu-item">
           <a href="https://anduin-dk.github.io/AcademicWeb/about.html">About</a>
             </li>
+        </nav>
     </header>
   <body>
         <section>
@@ -25,7 +27,6 @@
             Comments are welcomed and appreciated!
           </p>
         </section>
-          <nav>
               <li class="masthead__menu-item">
                   <a href = "./Bridging_to_measure_theoretic_probability.pdf">Bridging elementary probability to measure theory</a>
               </li>
@@ -44,6 +45,5 @@
               <li class = "masthead__menu-item">
                 <a href = "./VarifoldGeom.pdf">Varifolds and minimal surfaces</a>
               </li>
-          </nav> 
   </body>
 </html>
