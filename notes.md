@@ -4,7 +4,7 @@
         <title>
       Expository Notes
     </title>
-      <nav, class = "row">
+      <nav>
          <li class="masthead__menu-item">
           <a href="https://anduin-dk.github.io/AcademicWeb">Home</a>
             </li>
