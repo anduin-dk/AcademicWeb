@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
    <link rel="stylesheet" href="style.css">
    <head>
@@ -6,10 +5,16 @@
       </head> 
    <body>
       <header> 
-      <nav>
-         <a href=”anduin-dk.github.io/AcademicWeb”>Home</a>
-         <a href=”anduin-dk.github.io/AcademicWeb/notes.html”>Notes</a>
-         <a href=”anduin-dk.github.io/AcademicWeb/about.html”>About</a>
+     <nav, class = "row">
+         <li class="masthead__menu-item">
+          <a href="https://anduin-dk.github.io/AcademicWeb">Home</a>
+            </li>
+          <li class="masthead__menu-item">
+          <a href="https://anduin-dk.github.io/AcademicWeb/notes.html">Notes</a>
+            </li>
+          <li class="masthead__menu-item">
+          <a href="https://anduin-dk.github.io/AcademicWeb/about.html">About</a>
+            </li>
       </nav>
       </header>
       <main>
