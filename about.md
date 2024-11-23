@@ -21,8 +21,6 @@
              <title>
                About me
              </title>
-            <div class=”row">
-            <div class=”post-text-box”>
                <section>
                   <h1>Academic history</h1>
                   <p>
@@ -53,7 +51,6 @@
                   obstacle problems, metric geometry, analysis on RCD spaces, optimal transport and the synthetic theory for Lorentzian geometry.
                 </p>
               </section>
-            </div>
       </main>
     </body>
 </html>
