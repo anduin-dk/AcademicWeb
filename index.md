@@ -4,7 +4,7 @@
       <h1>Yuxuan (Andy) Song's website</h1>
       </head> 
    <body>
-      <header, class="row">   
+      <header>   
          <li class="masthead__menu-item">
           <a href="https://anduin-dk.github.io/AcademicWeb/index.html">Home</a>
             </li>
