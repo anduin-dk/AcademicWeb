@@ -1,9 +1,10 @@
 <html>
     <link rel="stylesheet" href="style.css">
-    <header> 
-        <title>
+    <head> <h1>
       Expository Notes
-    </title>
+    </h1>
+    </head>
+    <header> 
       <nav>
          <li class="masthead__menu-item">
           <a href="https://anduin-dk.github.io/AcademicWeb">Home</a>
@@ -26,7 +27,6 @@
             Comments are welcomed and appreciated!
           </p>
         </section>
-        <section>
           <nav>
               <li class="masthead__menu-item">
                   <a href = "anduin-dk.github.io/AcademicWeb/Bridging_to_measure_theoretic_probability.pdf",
@@ -54,7 +54,6 @@
                 <a href = "anduin-dk.github.io/AcademicWeb/VarifoldGeom.pdf", target="_blank">
                 Varifolds and minimal surfaces</a>
               </li>
-          </nav>
-        </section> 
+          </nav> 
   </body>
 </html>
