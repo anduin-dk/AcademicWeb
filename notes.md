@@ -30,19 +30,19 @@
                   <a href = "./Bridging_to_measure_theoretic_probability.pdf">Bridging elementary probability to measure theory</a>
               </li>
               <li class = "masthead__menu-item">
-                <a href = "\Convex_integration_From_Nash_embeddings_to_Euler_equation (4).pdf">Convex integration for Euler equations</a>
+                <a href = "./Convex_integration_From_Nash_embeddings_to_Euler_equation (4).pdf">Convex integration for Euler equations</a>
               </li>
               <li class = "masthead__menu-item">
-                  <a href = "anduin-dk.github.io/AcademicWeb/LocallyConvexAnalysis.pdf">Locally convex spaces</a>
+                  <a href = "./LocallyConvexAnalysis.pdf">Locally convex spaces</a>
               </li>
               <li class = "masthead__menu-item">
-                <a href = "anduin-dk.github.io/AcademicWeb/SubRiemStructures.pdf">Brief introduction to Sub-Riemannian geometry</a>
+                <a href = "./SubRiemStructures.pdf">Brief introduction to Sub-Riemannian geometry</a>
               </li>
               <li class = "masthead__menu-item">
-                <a href = "anduin-dk.github.io/AcademicWeb/RadonMeasures.pdf">Radon Measures on LCH spaces</a>
+                <a href = "./RadonMeasures.pdf">Radon Measures on LCH spaces</a>
               </li>
               <li class = "masthead__menu-item">
-                <a href = "anduin-dk.github.io/AcademicWeb/VarifoldGeom.pdf">Varifolds and minimal surfaces</a>
+                <a href = "./VarifoldGeom.pdf">Varifolds and minimal surfaces</a>
               </li>
           </nav> 
   </body>
