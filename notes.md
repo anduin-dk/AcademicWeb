@@ -43,7 +43,7 @@
                 <a href = "./RadonMeasures.pdf">Radon Measures on LCH spaces</a>
               </li>
               <li class = "masthead__menu-item">
-                <a href = "./VarifoldGeom.pdf">Varifolds and minimal surfaces</a>
+                <a href = "./VarifoldGeom (1).pdf">Varifolds and minimal surfaces (New content added)</a>
               </li>
   </body>
 </html>
