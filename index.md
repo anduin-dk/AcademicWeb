@@ -17,8 +17,9 @@
       </header>
       <main>
         <h1>About Me</h1>
+        <p>I will start a PhD in mathematics at Warwick this September, under the supervision of Professor Felix Schulze and Dr Maxwell Stolarski, working at the intersection of mean curvature flows and minimal surface theory. </p>
         <p>I have recently graduated from the University of Warwick with an integrated masters degree in Mathematics and Statistics, 
-                   where I have focused on the pure mathematics side. I am currently applying for a PhD position in Mathematics.</p>     
+                   where I have focused on the pure mathematics side. </p>     
       </main>
        <section><p><a href="mailto:yuxuan.song@warwick.ac.uk">Contact me via email: yuxuan.song@warwick.ac.uk</a></p></section>
     </body>
